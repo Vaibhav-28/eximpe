@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Vaibhav-28.github.io/eximpe",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
