@@ -83,3 +83,9 @@
   background: url(https://ssl.gstatic.com/images/icons/material/system/1x/arrow_drop_down_grey600_24dp.png)
     no-repeat 98% 50%;
 }
+
+.label {
+  text-align: start;
+  padding: 5px;
+  padding-top: 0px;
+}

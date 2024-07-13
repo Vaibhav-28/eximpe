@@ -146,8 +146,12 @@ const Converter = () => {
           <span className="currency-name">{targetCurrency}</span>
         </div>
       </div>
+      <div className="label">
+        <label name="date"> Select Date To View Historical Data:</label>
+      </div>
       <div className="input-select">
         <input
+          name="date"
           type="date"
           className="date"
           min={"2021-01-01"}
